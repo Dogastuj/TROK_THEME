@@ -1,0 +1,331 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<themes>
+    <images file="anim/scene00001.png" filter="nearest">
+        <area name="bg-f00001" xywh="*"/>
+    </images>
+    <images file="anim/scene00002.png" filter="nearest">
+        <area name="bg-f00002" xywh="*"/>
+    </images>
+    <images file="anim/scene00003.png" filter="nearest">
+        <area name="bg-f00003" xywh="*"/>
+    </images>
+    <images file="anim/scene00004.png" filter="nearest">
+        <area name="bg-f00004" xywh="*"/>
+    </images>
+    <images file="anim/scene00005.png" filter="nearest">
+        <area name="bg-f00005" xywh="*"/>
+    </images>
+    <images file="anim/scene00006.png" filter="nearest">
+        <area name="bg-f00006" xywh="*"/>
+    </images>
+    <images file="anim/scene00007.png" filter="nearest">
+        <area name="bg-f00007" xywh="*"/>
+    </images>
+    <images file="anim/scene00008.png" filter="nearest">
+        <area name="bg-f00008" xywh="*"/>
+    </images>
+    <images file="anim/scene00009.png" filter="nearest">
+        <area name="bg-f00009" xywh="*"/>
+    </images>
+    <images file="anim/scene00010.png" filter="nearest">
+        <area name="bg-f00010" xywh="*"/>
+    </images>
+    <images file="anim/scene00011.png" filter="nearest">
+        <area name="bg-f00011" xywh="*"/>
+    </images>
+    <images file="anim/scene00012.png" filter="nearest">
+        <area name="bg-f00012" xywh="*"/>
+    </images>
+    <images file="anim/scene00013.png" filter="nearest">
+        <area name="bg-f00013" xywh="*"/>
+    </images>
+    <images file="anim/scene00014.png" filter="nearest">
+        <area name="bg-f00014" xywh="*"/>
+    </images>
+    <images file="anim/scene00015.png" filter="nearest">
+        <area name="bg-f00015" xywh="*"/>
+    </images>
+    <images file="anim/scene00016.png" filter="nearest">
+        <area name="bg-f00016" xywh="*"/>
+    </images>
+    <images file="anim/scene00017.png" filter="nearest">
+        <area name="bg-f00017" xywh="*"/>
+    </images>
+    <images file="anim/scene00018.png" filter="nearest">
+        <area name="bg-f00018" xywh="*"/>
+    </images>
+    <images file="anim/scene00019.png" filter="nearest">
+        <area name="bg-f00019" xywh="*"/>
+    </images>
+    <images file="anim/scene00020.png" filter="nearest">
+        <area name="bg-f00020" xywh="*"/>
+    </images>
+    <images file="anim/scene00021.png" filter="nearest">
+        <area name="bg-f00021" xywh="*"/>
+    </images>
+    <images file="anim/scene00022.png" filter="nearest">
+        <area name="bg-f00022" xywh="*"/>
+    </images>
+    <images file="anim/scene00023.png" filter="nearest">
+        <area name="bg-f00023" xywh="*"/>
+    </images>
+    <images file="anim/scene00024.png" filter="nearest">
+        <area name="bg-f00024" xywh="*"/>
+    </images>
+    <images file="anim/scene00025.png" filter="nearest">
+        <area name="bg-f00025" xywh="*"/>
+    </images>
+    <images file="anim/scene00026.png" filter="nearest">
+        <area name="bg-f00026" xywh="*"/>
+    </images>
+    <images file="anim/scene00027.png" filter="nearest">
+        <area name="bg-f00027" xywh="*"/>
+    </images>
+    <images file="anim/scene00028.png" filter="nearest">
+        <area name="bg-f00028" xywh="*"/>
+    </images>
+    <images file="anim/scene00029.png" filter="nearest">
+        <area name="bg-f00029" xywh="*"/>
+    </images>
+    <images file="anim/scene00030.png" filter="nearest">
+        <area name="bg-f00030" xywh="*"/>
+    </images>
+    <images file="anim/scene00031.png" filter="nearest">
+        <area name="bg-f00031" xywh="*"/>
+    </images>
+    <images file="anim/scene00032.png" filter="nearest">
+        <area name="bg-f00032" xywh="*"/>
+    </images>
+    <images file="anim/scene00033.png" filter="nearest">
+        <area name="bg-f00033" xywh="*"/>
+    </images>
+    <images file="anim/scene00034.png" filter="nearest">
+        <area name="bg-f00034" xywh="*"/>
+    </images>
+    <images file="anim/scene00035.png" filter="nearest">
+        <area name="bg-f00035" xywh="*"/>
+    </images>
+    <images file="anim/scene00036.png" filter="nearest">
+        <area name="bg-f00036" xywh="*"/>
+    </images>
+    <images file="anim/scene00037.png" filter="nearest">
+        <area name="bg-f00037" xywh="*"/>
+    </images>
+    <images file="anim/scene00038.png" filter="nearest">
+        <area name="bg-f00038" xywh="*"/>
+    </images>
+    <images file="anim/scene00039.png" filter="nearest">
+        <area name="bg-f00039" xywh="*"/>
+    </images>
+    <images file="anim/scene00040.png" filter="nearest">
+        <area name="bg-f00040" xywh="*"/>
+    </images>
+    <images file="anim/scene00041.png" filter="nearest">
+        <area name="bg-f00041" xywh="*"/>
+    </images>
+    <images file="anim/scene00042.png" filter="nearest">
+        <area name="bg-f00042" xywh="*"/>
+    </images>
+    <images file="anim/scene00043.png" filter="nearest">
+        <area name="bg-f00043" xywh="*"/>
+    </images>
+    <images file="anim/scene00044.png" filter="nearest">
+        <area name="bg-f00044" xywh="*"/>
+    </images>
+    <images file="anim/scene00045.png" filter="nearest">
+        <area name="bg-f00045" xywh="*"/>
+    </images>
+    <images file="anim/scene00046.png" filter="nearest">
+        <area name="bg-f00046" xywh="*"/>
+    </images>
+    <images file="anim/scene00047.png" filter="nearest">
+        <area name="bg-f00047" xywh="*"/>
+    </images>
+    <images file="anim/scene00048.png" filter="nearest">
+        <area name="bg-f00048" xywh="*"/>
+    </images>
+    <images file="anim/scene00049.png" filter="nearest">
+        <area name="bg-f00049" xywh="*"/>
+    </images>
+    <images file="anim/scene00050.png" filter="nearest">
+        <area name="bg-f00050" xywh="*"/>
+    </images>
+    <images file="anim/scene00051.png" filter="nearest">
+        <area name="bg-f00051" xywh="*"/>
+    </images>
+    <images file="anim/scene00052.png" filter="nearest">
+        <area name="bg-f00052" xywh="*"/>
+    </images>
+    <images file="anim/scene00053.png" filter="nearest">
+        <area name="bg-f00053" xywh="*"/>
+    </images>
+    <images file="anim/scene00054.png" filter="nearest">
+        <area name="bg-f00054" xywh="*"/>
+    </images>
+    <images file="anim/scene00055.png" filter="nearest">
+        <area name="bg-f00055" xywh="*"/>
+    </images>
+    <images file="anim/scene00056.png" filter="nearest">
+        <area name="bg-f00056" xywh="*"/>
+    </images>
+    <images file="anim/scene00057.png" filter="nearest">
+        <area name="bg-f00057" xywh="*"/>
+    </images>
+    <images file="anim/scene00058.png" filter="nearest">
+        <area name="bg-f00058" xywh="*"/>
+    </images>
+    <images file="anim/scene00059.png" filter="nearest">
+        <area name="bg-f00059" xywh="*"/>
+    </images>
+    <images file="anim/scene00060.png" filter="nearest">
+        <area name="bg-f00060" xywh="*"/>
+    </images>
+    <images file="anim/scene00061.png" filter="nearest">
+        <area name="bg-f00061" xywh="*"/>
+    </images>
+    <images file="anim/scene00062.png" filter="nearest">
+        <area name="bg-f00062" xywh="*"/>
+    </images>
+    <images file="anim/scene00063.png" filter="nearest">
+        <area name="bg-f00063" xywh="*"/>
+    </images>
+    <images file="anim/scene00064.png" filter="nearest">
+        <area name="bg-f00064" xywh="*"/>
+    </images>
+    <images file="anim/scene00065.png" filter="nearest">
+        <area name="bg-f00065" xywh="*"/>
+    </images>
+    <images file="anim/scene00066.png" filter="nearest">
+        <area name="bg-f00066" xywh="*"/>
+    </images>
+    <images file="anim/scene00067.png" filter="nearest">
+        <area name="bg-f00067" xywh="*"/>
+    </images>
+    <images file="anim/scene00068.png" filter="nearest">
+        <area name="bg-f00068" xywh="*"/>
+    </images>
+    <images file="anim/scene00069.png" filter="nearest">
+        <area name="bg-f00069" xywh="*"/>
+    </images>
+    <images file="anim/scene00070.png" filter="nearest">
+        <area name="bg-f00070" xywh="*"/>
+    </images>
+    <images file="anim/scene00071.png" filter="nearest">
+        <area name="bg-f00071" xywh="*"/>
+    </images>
+    <images file="anim/scene00072.png" filter="nearest">
+        <area name="bg-f00072" xywh="*"/>
+    </images>
+    <images file="anim/scene00073.png" filter="nearest">
+        <area name="bg-f00073" xywh="*"/>
+    </images>
+    <images file="anim/scene00074.png" filter="nearest">
+        <area name="bg-f00074" xywh="*"/>
+    </images>
+    <images file="anim/scene00075.png" filter="nearest">
+        <area name="bg-f00075" xywh="*"/>
+    </images>
+    <images file="anim/scene00076.png" filter="nearest">
+        <area name="bg-f00076" xywh="*"/>
+    </images>
+    <images file="anim/scene00077.png" filter="nearest">
+        <area name="bg-f00077" xywh="*"/>
+    </images>
+    <images file="anim/scene00078.png" filter="nearest">
+        <area name="bg-f00078" xywh="*"/>
+    </images>
+
+    <images>
+        <animation name="login-background-animation" timeSource="enabled">
+            <frame ref="bg-f00001" duration="50"/>
+            <frame ref="bg-f00002" duration="50"/>
+            <frame ref="bg-f00003" duration="50"/>
+            <frame ref="bg-f00004" duration="50"/>
+            <frame ref="bg-f00005" duration="50"/>
+            <frame ref="bg-f00006" duration="50"/>
+            <frame ref="bg-f00007" duration="50"/>
+            <frame ref="bg-f00008" duration="50"/>
+            <frame ref="bg-f00009" duration="50"/>
+            <frame ref="bg-f00010" duration="50"/>
+            <frame ref="bg-f00011" duration="50"/>
+            <frame ref="bg-f00012" duration="50"/>
+            <frame ref="bg-f00013" duration="50"/>
+            <frame ref="bg-f00014" duration="50"/>
+            <frame ref="bg-f00015" duration="50"/>
+            <frame ref="bg-f00016" duration="50"/>
+            <frame ref="bg-f00017" duration="50"/>
+            <frame ref="bg-f00018" duration="50"/>
+            <frame ref="bg-f00019" duration="50"/>
+            <frame ref="bg-f00020" duration="50"/>
+            <frame ref="bg-f00021" duration="50"/>
+            <frame ref="bg-f00022" duration="50"/>
+            <frame ref="bg-f00023" duration="50"/>
+            <frame ref="bg-f00024" duration="50"/>
+            <frame ref="bg-f00025" duration="50"/>
+            <frame ref="bg-f00026" duration="50"/>
+            <frame ref="bg-f00027" duration="50"/>
+            <frame ref="bg-f00028" duration="50"/>
+            <frame ref="bg-f00029" duration="50"/>
+            <frame ref="bg-f00030" duration="50"/>
+            <frame ref="bg-f00031" duration="50"/>
+            <frame ref="bg-f00032" duration="50"/>
+            <frame ref="bg-f00033" duration="50"/>
+            <frame ref="bg-f00034" duration="50"/>
+            <frame ref="bg-f00035" duration="50"/>
+            <frame ref="bg-f00036" duration="50"/>
+            <frame ref="bg-f00037" duration="50"/>
+            <frame ref="bg-f00038" duration="50"/>
+            <frame ref="bg-f00039" duration="50"/>
+            <frame ref="bg-f00040" duration="50"/>
+            <frame ref="bg-f00041" duration="50"/>
+            <frame ref="bg-f00042" duration="50"/>
+            <frame ref="bg-f00043" duration="50"/>
+            <frame ref="bg-f00044" duration="50"/>
+            <frame ref="bg-f00045" duration="50"/>
+            <frame ref="bg-f00046" duration="50"/>
+            <frame ref="bg-f00047" duration="50"/>
+            <frame ref="bg-f00048" duration="50"/>
+            <frame ref="bg-f00049" duration="50"/>
+            <frame ref="bg-f00050" duration="50"/>
+            <frame ref="bg-f00051" duration="50"/>
+            <frame ref="bg-f00052" duration="50"/>
+            <frame ref="bg-f00053" duration="50"/>
+            <frame ref="bg-f00054" duration="50"/>
+            <frame ref="bg-f00055" duration="50"/>
+            <frame ref="bg-f00056" duration="50"/>
+            <frame ref="bg-f00057" duration="50"/>
+            <frame ref="bg-f00058" duration="50"/>
+            <frame ref="bg-f00059" duration="50"/>
+            <frame ref="bg-f00060" duration="50"/>
+            <frame ref="bg-f00061" duration="50"/>
+            <frame ref="bg-f00062" duration="50"/>
+            <frame ref="bg-f00063" duration="50"/>
+            <frame ref="bg-f00064" duration="50"/>
+            <frame ref="bg-f00065" duration="50"/>
+            <frame ref="bg-f00066" duration="50"/>
+            <frame ref="bg-f00067" duration="50"/>
+            <frame ref="bg-f00068" duration="50"/>
+            <frame ref="bg-f00069" duration="50"/>
+            <frame ref="bg-f00070" duration="50"/>
+            <frame ref="bg-f00071" duration="50"/>
+            <frame ref="bg-f00072" duration="50"/>
+            <frame ref="bg-f00073" duration="50"/>
+            <frame ref="bg-f00074" duration="50"/>
+            <frame ref="bg-f00075" duration="50"/>
+            <frame ref="bg-f00076" duration="50"/>
+            <frame ref="bg-f00077" duration="50"/>
+            <frame ref="bg-f00078" duration="50"/>
+        </animation>
+    </images>
+
+	
+	<theme name="logingui" ref="logingui">
+		<param name="background"><image>login-background-animation</image></param>
+   	</theme>
+	<theme name="characterselectgui" ref="characterselectgui">
+		<param name="background"><image>login-background-animation</image></param>
+   	</theme>
+	<theme name="queuegui" ref="queuegui">
+		<param name="background"><image>login-background-animation</image></param>
+   	</theme>
+</themes>
